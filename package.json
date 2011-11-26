@@ -1,0 +1,30 @@
+{
+  "name": "browsify",
+  "version": "0.0.1",
+  "description": "convert CommonJS modules into browser compatible ones",
+  "homepage": "http://github.com/brentlintner/browsify.js",
+  "author": {
+    "name": "Brent Lintner",
+    "email": "brent.lintner@gmail.com",
+    "url": "http://github.com/brentlintner"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://www.opensource.org/licenses/mit-license.php"
+  }],
+  "bin": { "browsify": "./bin/browsify" },
+  "main": "lib/index",
+  "files": [
+    "README.md",
+    "LICENSE",
+    "HELP",
+    "bin/browsify",
+    "deps/browser-require/require.js",
+    "lib"
+  ],
+  "dependencies": {
+    "jWorkflow": "*",
+    "argsparser": "0.0.x"
+  },
+  "preferGlobal" : true
+}
