@@ -6,3 +6,4 @@ Options:
    --to (-t)                 file to output to (defaults to stdout)
    --truncate-prefix         specify a prefix (usually a relative pathing) to truncate from require.define statements
                              ex. removes lib/ from require('lib/foo/bar')
+   --namespace               wrap the package in it's own namespace (avoid global collisions)
