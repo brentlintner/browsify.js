@@ -1,5 +1,7 @@
 # Browsify
 
+[![NPM version](https://badge.fury.io/js/browsify.svg)](http://badge.fury.io/js/browsify)
+
 [![Dependency Status](https://david-dm.org/brentlintner/browsify.js.svg)](https://david-dm.org/brentlintner/browsify.js)
 
 Batch convert CommonJS modules into a browser compatible package.
