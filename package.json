@@ -1,7 +1,7 @@
 {
   "name": "browsify",
   "version": "0.0.3",
-  "description": "convert CommonJS modules into browser compatible ones",
+  "description": "Batch convert CommonJS modules into browser compatible ones",
   "homepage": "http://github.com/brentlintner/browsify.js",
   "author": {
     "name": "Brent Lintner",
