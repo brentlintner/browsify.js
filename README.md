@@ -1,6 +1,6 @@
 # Browsify
 
-![](https://david-dm.org/brentlintner/browsify.js.png)
+[![Dependency Status](https://david-dm.org/brentlintner/browsify.js.svg)](https://david-dm.org/brentlintner/browsify.js)
 
 Batch convert CommonJS modules into a browser compatible package.
 
