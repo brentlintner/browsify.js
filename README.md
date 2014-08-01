@@ -68,3 +68,7 @@ var foo = require('lib/foo');
 ```javascript
 var foo = ns.require('lib/foo');
 ```
+
+## Versioning
+
+This project ascribes to [semantic versioning](http://semver.org).
