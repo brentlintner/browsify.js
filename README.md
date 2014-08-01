@@ -1,5 +1,7 @@
 # Browsify
 
+![](https://david-dm.org/brentlintner/browsify.js)
+
 Batch convert CommonJS modules into a browser compatible package.
 
 ## Installation
@@ -20,7 +22,7 @@ For more options.
 ## Using In Code
 
     npm install browsify
-    
+
 then require the processor module..
 
 ```javascript
